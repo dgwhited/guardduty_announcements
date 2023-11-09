@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureDescription": "Amazon GuardDuty has incorporated new machine learning techniques to more accurately detect anomalous activities indicative of threats to your Amazon Elastic Kubernetes Service (Amazon EKS) clusters.",
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-kubernetes.html#credaccess-kubernetes-anomalousbehavior-secretsaccessed"
+    }
+  ]
+}

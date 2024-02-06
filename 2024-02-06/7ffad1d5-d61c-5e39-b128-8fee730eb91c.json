@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "link": "https://docs.aws.amazon.com/guardduty/latest/ug/gdu-malpro-supported-volumes.html",
+      "featureDescription": "Amazon GuardDuty extends Malware Protection for EC2 instance and container workloads by now also supporting malware scan of EBS volumes encrypted with an AWS managed key. Scans can be initiated by GuardDuty, or by the user through the GuardDuty console, or programmatically via the API, without the need to deploy security software and with no impact to running workloads."
+    }
+  ]
+}

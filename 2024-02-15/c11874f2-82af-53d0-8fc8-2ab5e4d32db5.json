@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureDescription": "Amazon GuardDuty Runtime Monitoring, which detects potential runtime-based threats, now protects workloads running in shared virtual private cloud (VPCs) across all supported compute services. With this launch, customers who are already opted into automated agent management in GuardDuty will benefit from a renewed 30-day trial of GuardDuty Runtime Monitoring where we will automatically start monitoring the resources (clusters) deployed in shared VPC setup. Customers also have the option to manually manage the agent and provision the VPC endpoint in their shared VPC environment.",
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/runtime-monitoring-shared-vpc.html"
+    }
+  ]
+}

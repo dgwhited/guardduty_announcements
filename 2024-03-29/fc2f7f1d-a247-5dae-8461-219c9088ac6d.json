@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://aws.amazon.com/blogs/aws/amazon-guardduty-ec2-runtime-monitoring-is-now-generally-available/?trk=e11f71f3-4532-4e1f-a947-8be8b9afdd65",
+      "featureDescription": "Now available: Detect potential runtime security threats to your EC2 workloads with Amazon GuardDuty. Get visibility into operating system-level, network, file activities and container-level context of the identified threats. Try it for 30 days at no cost."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/how-runtime-monitoring-works-ecs-fargate.html",
+      "featureDescription": "GuardDuty Runtime Monitoring for ECS workloads deployed on Fargate now also supports batch tasks."
+    }
+  ]
+}

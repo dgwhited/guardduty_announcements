@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/prereq-runtime-monitoring-ec2-support.html#validating-architecture-req-ec2",
+      "featureDescription": "Now available: Extending operating systems support to Ubuntu and Debian OS for Amazon GuardDuty for EC2 runtime monitoring. Get visibility into operating system-level, network and file activities and container-level context of the identified threats."
+    }
+  ]
+}

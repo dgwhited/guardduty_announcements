@@ -1,0 +1,14 @@
+{
+  "version": "1",
+  "type": "NEW_FINDINGS",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/findings-runtime-monitoring.html#execution-runtime-suspicious-shell-created",
+      "featureDescription": "Amazon GuardDuty Runtime Monitoring has added a new finding type that notifies you that a suspicious shell has been created on monitored resource."
+    },
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/findings-runtime-monitoring.html#privilegeesc-runtime-elevation-to-root",
+      "featureDescription": "Amazon GuardDuty Runtime Monitoring has added a new finding type that notifies you that a process has suspiciously elevated its privileges to root."
+    }
+  ]
+}

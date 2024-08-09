@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/gdu-malware-protection-s3 ",
+      "featureDescription": "Amazon GuardDuty Malware Protection for S3 has increased the quota for the number of Amazon S3 buckets that you can protect, from 10 to 25 buckets per AWS account in each AWS Region."
+    }
+  ]
+}

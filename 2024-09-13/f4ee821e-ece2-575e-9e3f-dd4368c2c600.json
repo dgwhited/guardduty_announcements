@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/APIReference/API_GetFindingsStatistics.html",
+      "featureDescription": "Amazon GuardDuty adds new functionality to the GetFindingsStatistics API. Customers can now query aggregate finding counts broken down by: account, daily counts, finding type, finding severity and affected resources. Link: https://docs.aws.amazon.com/guardduty/latest/APIReference/API_GetFindingsStatistics.html"
+    }
+  ]
+}

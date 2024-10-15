@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FINDINGS",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/findings-runtime-monitoring.html#discovery-runtime-suspicious-command",
+      "featureDescription": "Amazon GuardDuty Runtime Monitoring has added 3 new finding types that notify you when suspicious commands are executed on your Amazon EC2 instance or container workload. These executed commands could attempt to perform tactics pertaining to Discovery, Privilege escalation, and Persistence."
+    }
+  ]
+}

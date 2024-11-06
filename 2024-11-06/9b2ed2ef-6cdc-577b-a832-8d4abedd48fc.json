@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/rds-protection.html",
+      "featureDescription": "Amazon GuardDuty expands its generally available RDS Protection feature to now also support monitoring login activity from Amazon Aurora PostgreSQL Limitless Databases. As a part of this expansion, GuardDuty will automatically begin monitoring login data from Aurora PostgreSQL Limitless Databases for accounts that currently have RDS Protection enabled. For accounts that have not yet enabled RDS Protection, enable the feature with a single step in the GuardDuty console. This will begin continuous monitoring of existing and new databases in your account."
+    }
+  ]
+}

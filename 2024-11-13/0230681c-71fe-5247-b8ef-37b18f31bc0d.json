@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection.html ",
+      "featureDescription": "Amazon GuardDuty Malware Protection for EC2 has added three Runtime Monitoring finding types that invoke automatic (GuardDuty-initiated) malware scans - Execution:Runtime/MaliciousFileExecuted, Execution:Runtime/SuspiciousShellCreated, and PrivilegeEscalation:Runtime/ElevationToRoot. AWS accounts that have the Malware Protection for EC2 feature enabled may observe malware scans being initiated when these findings are generated."
+    }
+  ]
+}

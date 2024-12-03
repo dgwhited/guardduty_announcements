@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-extended-threat-detection-aiml-attack-sequence-identification-for-enhanced-cloud-security/",
+      "featureDescription": "Now available: Amazon GuardDuty Extended Threat Detection automatically detects multi-stage attacks sequences. An attack sequence is a critical severity finding that identifies a sophisticated attack across time and AWS resources. Extended Threat Detection connects individual findings and signals into a cohesive attack narrative. An attack sequence involves multiple steps, such as gaining initial access, escalating privileges, moving laterally, and exfiltrating data. Additionally, enable GuardDuty S3 Protection to further enhance the security value of the attack sequences."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureDescription": "Amazon GuardDuty is now available in AWS Asia Pacific (Malaysia) Region",
+      "featureLink": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-guardduty-asia-pacific-malaysia-region/"
+    }
+  ]
+}

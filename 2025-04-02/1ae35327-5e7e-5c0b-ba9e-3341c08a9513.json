@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureDescription": "Amazon GuardDuty is now available in AWS Asia Pacific (Thailand) Region",
+      "featureLink": "https://aws.amazon.com/guardduty/"
+    }
+  ]
+}

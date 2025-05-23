@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/runtime-monitoring-agent-release-history.html",
+      "featureDescription": "Now available: (1) New GuardDuty agent versions featuring security updates for Amazon EKS, Amazon EC2, and Amazon ECS Fargate; (2) Enhanced visibility into underlying runtime coverage issues. For assessing coverage across computes and troubleshooting steps, check https://docs.aws.amazon.com/guardduty/latest/ug/runtime-monitoring-assessing-coverage.html in the Amazon GuardDuty User Guide."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1",
+  "type": "GENERAL",
+  "message": [
+    {
+      "title": "Updates of GuardDuty Extended Threat Detection",
+      "body": "GuardDuty Extended Threat Detection automatically detects multi-stage attacks that span multiple data sources, AWS resource types, and time. It generates attack sequence findings, which have critical severity with value 9.0. GuardDuty is continuously updating and adding new threat scenarios to this detection based on observed threat actor activity and AWS threat intelligence. We strongly advise all customers to ensure their EventBridge rules and downstream tooling is receiving and not filtering out these new finding types. We also recommend to review such findings promptly, if received.",
+      "links": [
+        "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty-attack-sequence-finding-types.html#attack-sequence-iam-compromised-credentials"
+      ]
+    }
+  ]
+}

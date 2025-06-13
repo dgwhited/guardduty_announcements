@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection-auditing-scan-logs.html ",
+      "featureDescription": "Amazon GuardDuty Malware Protection has added limited support for scanning instances with marketplace product codes in AWS Commercial Regions. This applies to both GuardDuty-initiated and on-demand malware scans."
+    }
+  ]
+}

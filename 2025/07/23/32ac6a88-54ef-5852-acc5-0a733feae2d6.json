@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection-s3-quotas-guardduty.html ",
+      "featureDescription": "Amazon GuardDuty Malware Protection for S3 now supports scanning objects up to 100 GB, increased from 5 GB. This includes both individual objects and extracted archive files."
+    }
+  ]
+}

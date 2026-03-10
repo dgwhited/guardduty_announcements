@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "type": "NEW_FINDINGS",
+  "findingDetails": [
+    {
+      "findingType": "CredentialAccess:IAMUser/CompromisedCredentials",
+      "link": "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-iam.html#credentialaccess-iam-compromisedcredentials",
+      "findingDescription": "Amazon GuardDuty now delivers findings for compromised IAM credentials. When abnormal credential activity is detected, you will receive notification through GuardDuty's standard channels."
+    }
+  ]
+}

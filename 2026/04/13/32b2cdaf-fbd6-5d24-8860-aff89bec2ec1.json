@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FEATURES",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/monitoring-malware-protection-s3-scans-gdu.html",
+      "featureDescription": "GuardDuty Malware Protection for Amazon S3 Object Scan Result notifications in EventBridge now includes statusReasons field to provide visibility into reason behind skipped scans."
+    }
+  ]
+}

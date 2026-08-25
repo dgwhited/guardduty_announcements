@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "type": "NEW_FINDINGS",
+  "featureDetails": [
+    {
+      "featureLink": "https://docs.aws.amazon.com/guardduty/latest/ug/findings-runtime-monitoring.html#persistence-runtime-sensitive-file-modified",
+      "featureDescription": "Amazon GuardDuty Runtime Monitoring has added 3 new finding types \u2014Persistence:Runtime/SensitiveFileModified, PrivilegeEscalation:Runtime/SensitiveFileModified, and DefenseEvasion:Runtime/SensitiveFileModified \u2014 that inform you when a security-sensitive system file on an EC2 instance or container has been modified, potentially enabling an adversary to gain persistence, elevate privileges, or evade detection. GuardDuty generates these findings only when file modifications are correlated with other suspicious activities."
+    }
+  ]
+}
